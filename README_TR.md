@@ -113,12 +113,8 @@ Sistem, uyku durumlarını tespit etmek için çok aşamalı bir yaklaşım kull
 - **FPS**: Standart donanımda 25-30 FPS
 
 ## 📊 Ekran Görüntüleri ve Örnekler
-
-Şunlar için `Screenshots/` klasörüne bakın:
-- Gerçek zamanlı tespit örnekleri
-- Farklı uyku durumu sınıflandırmaları
-- Sistem arayüzü gösterimleri
-- Performans metrikleri
+<img width="640" height="640" alt="Output_2" src="https://github.com/user-attachments/assets/169b3fed-5baa-404a-8265-dd7913cb1b4b" />
+<img width="640" height="640" alt="Output_1" src="https://github.com/user-attachments/assets/eb557427-013e-415d-a873-252f82932ef3" />
 
 ## 📝 Lisans
 
