@@ -113,12 +113,8 @@ The system employs a multi-stage approach to detect sleep states:
 - **FPS**: 25-30 FPS on standard hardware
 
 ## 📊 Screenshots and Examples
-
-Check the `Screenshots/` folder for:
-- Real-time detection examples
-- Different sleep state classifications
-- System interface demonstrations
-- Performance metrics
+<img width="640" height="640" alt="Output_1" src="https://github.com/user-attachments/assets/c97c8c83-5566-424f-9af9-fa49f0e561f2" />
+<img width="640" height="640" alt="Output_2" src="https://github.com/user-attachments/assets/f549ef2f-ba19-4947-8360-80c9ef732f9c" />
 
 ## 📝 License
 
